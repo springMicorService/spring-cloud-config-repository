@@ -1,3 +1,4 @@
-user.userName=12
-user.age=20
-user.sex=2
+user:
+  userName: shop_dev_root
+  age: 30
+  sex: ad
