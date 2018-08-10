@@ -1,3 +1,4 @@
-user.userName=devName
-user.sex=1
-user.age=20
+user:
+  userName: shop_h5_dev
+  sex: man
+  age: 20
