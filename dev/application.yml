@@ -1,3 +1,4 @@
-user.userName=devName
-user.sex=man
-user.age=20
+user:
+  userName: application_dev
+  sex: man
+  age: 20
